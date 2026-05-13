@@ -12,3 +12,4 @@ raganokevent.png
 ShinobiWW.png
 ultra boss.png
 UniversalTear.png
+RagnaStage.png
