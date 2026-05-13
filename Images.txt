@@ -1,15 +1,1 @@
-closeButton.png
-DMCEvent.png
-Hollowed.png
-IchigoRaid.png
-ichigoraidact5.png
-ichigoraidact6.png
-MarineBase.png
-minimizeButton.png
-NinjaForest.png
-Olympus.png
-raganokevent.png
-ShinobiWW.png
-ultra boss.png
-UniversalTear.png
-RagnaStage.png
+22.png
