@@ -16,3 +16,7 @@ Warlord'sShip.png
 Warlord'sShipAct5.png
 Pirate Blitz.png
 AdmiralDefense.png
+Otherworld Disturbance.png
+CorruptedAbsorption.png
+kitsunox struggle.png
+merciless god.png
